@@ -25,7 +25,7 @@ public class BinarySearch {
       BinaryHelper(data, (middle + 1), end, target);
     }
 
-    // System.out.printf("target not found\n");
+    System.out.printf("target not found\n");
     return -1;
   }
 }
